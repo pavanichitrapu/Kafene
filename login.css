@@ -1,0 +1,19 @@
+#root{}
+#topbar{
+    height:100px;
+}
+#topbar_LeftMenu{
+ color:red;
+}
+#topbar_LogoWrapper{
+    font-size:10px;
+}
+/*#topbar_BrandName{}
+ nav{
+
+ }
+.Topbar_MenuItem{}
+#main{}
+#LoginPage{}
+.LoginPage_InputField{}
+.LoginPage_Button{}*/
